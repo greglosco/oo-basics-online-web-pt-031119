@@ -1,5 +1,5 @@
 # Make your shoe class here!
-reuire 'pry'
+require 'pry'
 
 class Shoe 
   
