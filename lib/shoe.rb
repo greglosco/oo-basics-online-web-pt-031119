@@ -2,7 +2,7 @@
 require 'pry'
 
 class Shoe 
-  attr_accessor : 
+  attr_accessor :color
   def initialize(brand)
     @brand = brand
   end
